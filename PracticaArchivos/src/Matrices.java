@@ -38,7 +38,7 @@ public class Matrices{
                         }
                     }
                 }
-
+                //escritura en el archivo
                 DataOutputStream c= new DataOutputStream(new FileOutputStream("src/c.mat"));
                 c.writeByte(nFilasA);
                 c.writeByte(nColumnasB);
@@ -47,10 +47,10 @@ public class Matrices{
                         c.writeDouble(matrizC[i][j]);
                     }
                 }
+                //impresion para comprobar
                 for (int i = 0; i < nFilasA; i++) {
                     for (int j = 0; j < nColumnasB; j++) {
                         System.out.print(matrizC[i][j]+"\t");
-                        //System.out.println();
                     }
                     System.out.println();
                 }
