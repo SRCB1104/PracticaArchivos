@@ -1,0 +1,9 @@
+Hay 28110 palabras de 2 caracteres 
+Hay 18718 palabras de 3 caracteres 
+Hay 9793 palabras de 4 caracteres 
+Hay 12263 palabras de 5 caracteres 
+Hay 8396 palabras de 6 caracteres 
+Hay 6623 palabras de 7 caracteres 
+Hay 4878 palabras de 8 caracteres 
+Hay 2980 palabras de 9 caracteres 
+Hay 1760 palabras de 10 caracteres 
